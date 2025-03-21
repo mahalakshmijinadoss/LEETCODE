@@ -1,6 +1,6 @@
 # LEETCODE
 
-Keeping track of my LeetCode Submissions here
+Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm) extension
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
