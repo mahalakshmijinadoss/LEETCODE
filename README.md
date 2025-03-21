@@ -44,4 +44,20 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/2121-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
