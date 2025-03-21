@@ -34,9 +34,14 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0890-lemonade-change) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
