@@ -7,6 +7,7 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -60,4 +61,8 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/2121-find-if-path-exists-in-graph) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
