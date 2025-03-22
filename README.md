@@ -13,6 +13,7 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 | [0219-contains-duplicate-ii](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0890-lemonade-change](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0890-lemonade-change) |
 | [1319-unique-number-of-occurrences](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
+| [2058-concatenation-of-array](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,8 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
