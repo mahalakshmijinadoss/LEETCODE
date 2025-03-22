@@ -12,6 +12,7 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 | [0217-contains-duplicate](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0890-lemonade-change](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0890-lemonade-change) |
+| [1319-unique-number-of-occurrences](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 | [0217-contains-duplicate](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0242-valid-anagram) |
+| [1319-unique-number-of-occurrences](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
