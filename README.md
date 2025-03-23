@@ -9,6 +9,7 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 | [0001-two-sum](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0066-plus-one) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0890-lemonade-change](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0890-lemonade-change) |
@@ -78,4 +79,8 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/2058-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
