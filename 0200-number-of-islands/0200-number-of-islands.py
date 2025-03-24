@@ -1,25 +1,34 @@
+from collections import deque
+from typing import List
+
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid:
-            return 0
+        rows = len(grid)
+        cols = len(grid[0])
+        islands = 0
+        visited = set()
         
-        def dfs(i, j):
-            if i < 0 or i >= len(grid) or j < 0 or j >= len(grid[0]) or grid[i][j] != '1':
-                return
-            grid[i][j] = '0'  # mark as visited
-            dfs(i+1, j)
-            dfs(i-1, j)
-            dfs(i, j+1)
-            dfs(i, j-1)
+        def bfs(r, c):
+            q = deque()
+            visited.add((r, c))  
+            q.append([r, c])  
+            directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
+            while q:
+                row, col = q.popleft()
+                for dr, dc in directions:
+                    new_r = row + dr
+                    new_c = col + dc
+                    if 0 <= new_r < rows and 0 <= new_c < cols and grid[new_r][new_c] == '1' and (new_r, new_c) not in visited:
+                        visited.add((new_r, new_c))  
+                        q.append([new_r, new_c])  
         
-        num_islands = 0
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
-                if grid[i][j] == '1':
-                    num_islands += 1
-                    dfs(i, j)
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j] == '1' and (i, j) not in visited:
+                    bfs(i, j)
+                    islands += 1
         
-        return num_islands
+        return islands
 
 
 
