@@ -13,6 +13,7 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 | [0200-number-of-islands](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0311-sparse-matrix-multiplication](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0311-sparse-matrix-multiplication) |
 | [0890-lemonade-change](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0890-lemonade-change) |
 | [1319-unique-number-of-occurrences](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [2058-concatenation-of-array](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/2058-concatenation-of-array) |
@@ -23,6 +24,7 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 | [0217-contains-duplicate](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0242-valid-anagram) |
+| [0311-sparse-matrix-multiplication](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0311-sparse-matrix-multiplication) |
 | [1319-unique-number-of-occurrences](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 ## Math
 |  |
@@ -91,4 +93,5 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0200-number-of-islands) |
+| [0311-sparse-matrix-multiplication](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0311-sparse-matrix-multiplication) |
 <!---LeetCode Topics End-->
