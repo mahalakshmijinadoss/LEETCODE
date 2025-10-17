@@ -45,6 +45,7 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 | [0020-valid-parentheses](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Keeping track of my LeetCode Submissions here using [LeetHub](https://chromewebs
 | ------- |
 | [0027-remove-element](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/mahalakshmijinadoss/LEETCODE/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
